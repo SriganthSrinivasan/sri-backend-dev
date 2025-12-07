@@ -1,2 +1,2 @@
-# sri-backend-dev
-A sample repository created with Terraform for dev environment
+This is a sample backend Go repository created with Terraform.
+This file is last modified by SriganthSrinivasan"
